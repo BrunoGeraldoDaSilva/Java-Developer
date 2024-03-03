@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\Dio\4_JAVA\Formação Java Developer\04-Struturas de dados e API de Streams em java\Projetos\Aula7-Abstraindo um Bootcamp Usando Orientação a Objetos em Java\entregarProjeto\projetoDesmistificar\src\principal\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
